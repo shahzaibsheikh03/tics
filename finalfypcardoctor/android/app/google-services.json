@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "646300378675",
+    "project_id": "finalcar-f90df",
+    "storage_bucket": "finalcar-f90df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646300378675:android:b262bfaf4952e5ac01a546",
+        "android_client_info": {
+          "package_name": "com.example.finalcardoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646300378675-2khlbt9qefd2478oepbafo3gcgesv9p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdaID4AS6S5_wPTvCd8QIn1O-z6MWXnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646300378675-2khlbt9qefd2478oepbafo3gcgesv9p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646300378675:android:8aece030d5dd726b01a546",
+        "android_client_info": {
+          "package_name": "com.example.finalfypcardoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646300378675-2khlbt9qefd2478oepbafo3gcgesv9p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYdaID4AS6S5_wPTvCd8QIn1O-z6MWXnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646300378675-2khlbt9qefd2478oepbafo3gcgesv9p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
